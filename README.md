@@ -2,3 +2,5 @@
 Jenkins ghprb trigger scenarious:
 - webhooks
 - trigger
+
+JobDSL plugin:
