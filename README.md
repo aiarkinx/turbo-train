@@ -5,5 +5,6 @@ Jenkins ghprb trigger scenarious:
 
 JobDSL plugin:
 - pipeline
- - ghprbTrigger
+  - Time trigger
+  - ghprbTrigger
 
