@@ -10,3 +10,4 @@ JobDSL plugin:
 
 troubles:
 
+fail
